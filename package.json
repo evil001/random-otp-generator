@@ -1,5 +1,5 @@
 {
-  "name": "random-otp-generator",
+  "name": "random-generator-code",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/evil001/random-otp-generator.git"
-  }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
